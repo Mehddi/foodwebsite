@@ -3,16 +3,16 @@
 
 /*=============== VARIABLES CSS ===============*/
 :root {
-  --header-height: ;
+  --header-height: 5.5rem;
 
   /*========== Colors ==========*/
   /* Color mode HSL(hue, saturation, lightness) */
-  --first-color: ;
-  --second-color: ;
-  --title-color: ;
-  --text-color: ;
-  --body-color: ;
-  --container-color: ;
+  --first-color: hsl(49, 100%, 53%);
+  --second-color: hsl(349, 89%, 55%);
+  --title-color: hsl(0, 0%, 0%);
+  --text-color: hsl(0, 0%, 33%);
+  --body-color: hsl(0, 0%, 100%);
+  --container-color: hsl(218, 67%, 98%);
 
   /*========== Font and typography ==========*/
   /* .5rem = 8px | 1rem = 16px ... */
