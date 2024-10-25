@@ -16,22 +16,22 @@
 
   /*========== Font and typography ==========*/
   /* .5rem = 8px | 1rem = 16px ... */
-  --body-font: ;
-  --second-font: ;
-  --biggest-font-size: ;
-  --bigger-font-size: ;
-  --h1-font-size: ;
-  --h2-font-size: ;
-  --h3-font-size: ;
-  --larger-font-size: ;
-  --large-font-size: ;
-  --normal-font-size: ;
+  --body-font: 'Epilogue', sans-serif;
+  --second-font: 'Fredoka One', sans-serif;
+  --biggest-font-size: 5.5rem;
+  --bigger-font-size: 3.7rem;
+  --h1-font-size: 2.5rem;
+  --h2-font-size: 1.75rem;
+  --h3-font-size: 1.5rem;
+  --larger-font-size: 1.25rem;
+  --large-font-size: 1.125rem;
+  --normal-font-size: 1rem;
 
   /*========== Font weight ==========*/
-  --weight-400: ;
+  --weight-400: 400;
 
   /*========== Transition ==========*/
-  --transition: ;
+  --transition: ease-in-out;
 }
 
 /*=============== BASE ===============*/
