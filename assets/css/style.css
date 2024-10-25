@@ -35,6 +35,55 @@
 }
 
 /*=============== BASE ===============*/
+* {
+  margin : 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input,
+button,
+body {
+  font-family: var(--second-font);
+  font-size: var(--normal-font-size);
+}
+
+body {
+  background-color: var(--body-color);
+  color: var(--text-color);
+}
+
+input,
+button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--title-color);
+  font-family: var(--second-font);
+  font-weight: var(--weight-400);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  line-height: 1.875rem;
+}
+
+img {
+  max-width: 100%;
+}
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 
